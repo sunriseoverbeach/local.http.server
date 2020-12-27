@@ -1,0 +1,9 @@
+{
+  "name": "local.http.server",
+  "description": "Simple local HTTP server",
+  "version": "0.1.0",
+  "bin": {
+    "local.http.server": "./bin/index.js"
+  },
+  "dependencies": {}
+}
